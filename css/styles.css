@@ -98,6 +98,9 @@ right: 30%;
    color:#ff4c68 !important;
 }
 
+.fa-brands:hover{
+  color:#ff4c68  !important;
+}
 
     /* Download Buttons */
 .Download-Buttons{
